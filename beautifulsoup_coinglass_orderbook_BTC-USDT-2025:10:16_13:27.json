@@ -1,0 +1,2406 @@
+{
+  "bids": [
+    {
+      "price": 111300,
+      "amount": 5.9,
+      "total": 5.9
+    },
+    {
+      "price": 111290,
+      "amount": 8.8,
+      "total": 14.7
+    },
+    {
+      "price": 111280,
+      "amount": 16.0,
+      "total": 30.6
+    },
+    {
+      "price": 111270,
+      "amount": 34.4,
+      "total": 65.0
+    },
+    {
+      "price": 111260,
+      "amount": 41.4,
+      "total": 106.4
+    },
+    {
+      "price": 111250,
+      "amount": 70.3,
+      "total": 176.7
+    },
+    {
+      "price": 111240,
+      "amount": 35.0,
+      "total": 211.7
+    },
+    {
+      "price": 111230,
+      "amount": 58.6,
+      "total": 270.2
+    },
+    {
+      "price": 111220,
+      "amount": 53.4,
+      "total": 323.7
+    },
+    {
+      "price": 111210,
+      "amount": 37.6,
+      "total": 361.2
+    },
+    {
+      "price": 111200,
+      "amount": 36.3,
+      "total": 397.5
+    },
+    {
+      "price": 111190,
+      "amount": 24.7,
+      "total": 422.2
+    },
+    {
+      "price": 111180,
+      "amount": 27.6,
+      "total": 449.8
+    },
+    {
+      "price": 111170,
+      "amount": 22.7,
+      "total": 472.5
+    },
+    {
+      "price": 111160,
+      "amount": 49.1,
+      "total": 521.6
+    },
+    {
+      "price": 111150,
+      "amount": 28.4,
+      "total": 550.0
+    },
+    {
+      "price": 111140,
+      "amount": 46.2,
+      "total": 596.2
+    },
+    {
+      "price": 111130,
+      "amount": 51.6,
+      "total": 647.7
+    },
+    {
+      "price": 111120,
+      "amount": 32.2,
+      "total": 679.9
+    },
+    {
+      "price": 111110,
+      "amount": 23.9,
+      "total": 703.8
+    },
+    {
+      "price": 111100,
+      "amount": 31.4,
+      "total": 735.2
+    },
+    {
+      "price": 111090,
+      "amount": 60.8,
+      "total": 796.0
+    },
+    {
+      "price": 111080,
+      "amount": 13.6,
+      "total": 809.6
+    },
+    {
+      "price": 111070,
+      "amount": 54.5,
+      "total": 864.1
+    },
+    {
+      "price": 111060,
+      "amount": 28.7,
+      "total": 892.8
+    },
+    {
+      "price": 111050,
+      "amount": 35.4,
+      "total": 928.2
+    },
+    {
+      "price": 111040,
+      "amount": 61.5,
+      "total": 989.7
+    },
+    {
+      "price": 111030,
+      "amount": 66.0,
+      "total": 1056
+    },
+    {
+      "price": 111020,
+      "amount": 37.4,
+      "total": 1093
+    },
+    {
+      "price": 111010,
+      "amount": 40.5,
+      "total": 1134
+    },
+    {
+      "price": 111000,
+      "amount": 51.3,
+      "total": 1185
+    },
+    {
+      "price": 110990,
+      "amount": 38.2,
+      "total": 1223
+    },
+    {
+      "price": 110980,
+      "amount": 19.6,
+      "total": 1243
+    },
+    {
+      "price": 110970,
+      "amount": 52.2,
+      "total": 1295
+    },
+    {
+      "price": 110960,
+      "amount": 21.6,
+      "total": 1316
+    },
+    {
+      "price": 110950,
+      "amount": 17.1,
+      "total": 1333
+    },
+    {
+      "price": 110940,
+      "amount": 14.0,
+      "total": 1347
+    },
+    {
+      "price": 110930,
+      "amount": 32.5,
+      "total": 1380
+    },
+    {
+      "price": 110920,
+      "amount": 21.0,
+      "total": 1401
+    },
+    {
+      "price": 110910,
+      "amount": 4.4,
+      "total": 1405
+    },
+    {
+      "price": 110900,
+      "amount": 11.6,
+      "total": 1417
+    },
+    {
+      "price": 110890,
+      "amount": 5.5,
+      "total": 1422
+    },
+    {
+      "price": 110880,
+      "amount": 56.7,
+      "total": 1479
+    },
+    {
+      "price": 110870,
+      "amount": 42.2,
+      "total": 1521
+    },
+    {
+      "price": 110860,
+      "amount": 3.3,
+      "total": 1525
+    },
+    {
+      "price": 110850,
+      "amount": 9.7,
+      "total": 1534
+    },
+    {
+      "price": 110840,
+      "amount": 2.4,
+      "total": 1537
+    },
+    {
+      "price": 110830,
+      "amount": 9.3,
+      "total": 1546
+    },
+    {
+      "price": 110820,
+      "amount": 15.0,
+      "total": 1561
+    },
+    {
+      "price": 110810,
+      "amount": 3.6,
+      "total": 1565
+    },
+    {
+      "price": 110800,
+      "amount": 14.3,
+      "total": 1579
+    },
+    {
+      "price": 110790,
+      "amount": 17.2,
+      "total": 1596
+    },
+    {
+      "price": 110780,
+      "amount": 8.3,
+      "total": 1604
+    },
+    {
+      "price": 110770,
+      "amount": 7.9,
+      "total": 1612
+    },
+    {
+      "price": 110760,
+      "amount": 2.5,
+      "total": 1615
+    },
+    {
+      "price": 110750,
+      "amount": 14.7,
+      "total": 1630
+    },
+    {
+      "price": 110740,
+      "amount": 30.2,
+      "total": 1660
+    },
+    {
+      "price": 110730,
+      "amount": 3.0,
+      "total": 1663
+    },
+    {
+      "price": 110720,
+      "amount": 4.9,
+      "total": 1668
+    },
+    {
+      "price": 110710,
+      "amount": 8.2,
+      "total": 1676
+    },
+    {
+      "price": 110700,
+      "amount": 6.9,
+      "total": 1683
+    },
+    {
+      "price": 110690,
+      "amount": 2.5,
+      "total": 1685
+    },
+    {
+      "price": 110680,
+      "amount": 4.6,
+      "total": 1690
+    },
+    {
+      "price": 110670,
+      "amount": 2.9,
+      "total": 1693
+    },
+    {
+      "price": 110660,
+      "amount": 17.4,
+      "total": 1710
+    },
+    {
+      "price": 110650,
+      "amount": 4.4,
+      "total": 1715
+    },
+    {
+      "price": 110640,
+      "amount": 100.9,
+      "total": 1815
+    },
+    {
+      "price": 110630,
+      "amount": 40.2,
+      "total": 1856
+    },
+    {
+      "price": 110620,
+      "amount": 3.4,
+      "total": 1859
+    },
+    {
+      "price": 110610,
+      "amount": 5.5,
+      "total": 1864
+    },
+    {
+      "price": 110600,
+      "amount": 19.4,
+      "total": 1884
+    },
+    {
+      "price": 110590,
+      "amount": 2.6,
+      "total": 1886
+    },
+    {
+      "price": 110580,
+      "amount": 38.3,
+      "total": 1925
+    },
+    {
+      "price": 110570,
+      "amount": 2.9,
+      "total": 1928
+    },
+    {
+      "price": 110560,
+      "amount": 2.1,
+      "total": 1930
+    },
+    {
+      "price": 110550,
+      "amount": 7.9,
+      "total": 1938
+    },
+    {
+      "price": 110540,
+      "amount": 3.8,
+      "total": 1941
+    },
+    {
+      "price": 110530,
+      "amount": 3.3,
+      "total": 1945
+    },
+    {
+      "price": 110520,
+      "amount": 16.7,
+      "total": 1961
+    },
+    {
+      "price": 110510,
+      "amount": 4.5,
+      "total": 1966
+    },
+    {
+      "price": 110500,
+      "amount": 13.9,
+      "total": 1980
+    },
+    {
+      "price": 110490,
+      "amount": 13.3,
+      "total": 1993
+    },
+    {
+      "price": 110480,
+      "amount": 2.6,
+      "total": 1996
+    },
+    {
+      "price": 110470,
+      "amount": 3.6,
+      "total": 1999
+    },
+    {
+      "price": 110460,
+      "amount": 50.4,
+      "total": 2050
+    },
+    {
+      "price": 110450,
+      "amount": 5.0,
+      "total": 2055
+    },
+    {
+      "price": 110440,
+      "amount": 2.9,
+      "total": 2058
+    },
+    {
+      "price": 110430,
+      "amount": 1.8,
+      "total": 2060
+    },
+    {
+      "price": 110420,
+      "amount": 9.6,
+      "total": 2069
+    },
+    {
+      "price": 110410,
+      "amount": 2.6,
+      "total": 2072
+    },
+    {
+      "price": 110400,
+      "amount": 15.5,
+      "total": 2087
+    },
+    {
+      "price": 110390,
+      "amount": 0.7,
+      "total": 2088
+    },
+    {
+      "price": 110380,
+      "amount": 1.0,
+      "total": 2089
+    },
+    {
+      "price": 110370,
+      "amount": 2.2,
+      "total": 2091
+    },
+    {
+      "price": 110360,
+      "amount": 10.9,
+      "total": 2102
+    },
+    {
+      "price": 110350,
+      "amount": 1.4,
+      "total": 2103
+    },
+    {
+      "price": 110340,
+      "amount": 1.1,
+      "total": 2104
+    },
+    {
+      "price": 110330,
+      "amount": 6.9,
+      "total": 2111
+    },
+    {
+      "price": 110320,
+      "amount": 1.0,
+      "total": 2112
+    },
+    {
+      "price": 110310,
+      "amount": 7.1,
+      "total": 2119
+    },
+    {
+      "price": 110300,
+      "amount": 3.9,
+      "total": 2123
+    },
+    {
+      "price": 110290,
+      "amount": 6.0,
+      "total": 2129
+    },
+    {
+      "price": 110280,
+      "amount": 3.9,
+      "total": 2133
+    },
+    {
+      "price": 110270,
+      "amount": 4.9,
+      "total": 2138
+    },
+    {
+      "price": 110260,
+      "amount": 17.4,
+      "total": 2155
+    },
+    {
+      "price": 110250,
+      "amount": 7.2,
+      "total": 2163
+    },
+    {
+      "price": 110240,
+      "amount": 55.1,
+      "total": 2218
+    },
+    {
+      "price": 110230,
+      "amount": 13.5,
+      "total": 2231
+    },
+    {
+      "price": 110220,
+      "amount": 4.7,
+      "total": 2236
+    },
+    {
+      "price": 110210,
+      "amount": 2.0,
+      "total": 2238
+    },
+    {
+      "price": 110200,
+      "amount": 20.4,
+      "total": 2258
+    },
+    {
+      "price": 110190,
+      "amount": 0.7,
+      "total": 2259
+    },
+    {
+      "price": 110180,
+      "amount": 16.0,
+      "total": 2275
+    },
+    {
+      "price": 110170,
+      "amount": 2.4,
+      "total": 2277
+    },
+    {
+      "price": 110160,
+      "amount": 0.8,
+      "total": 2278
+    },
+    {
+      "price": 110150,
+      "amount": 22.7,
+      "total": 2301
+    },
+    {
+      "price": 110140,
+      "amount": 1.8,
+      "total": 2303
+    },
+    {
+      "price": 110130,
+      "amount": 6.6,
+      "total": 2309
+    },
+    {
+      "price": 110120,
+      "amount": 3.9,
+      "total": 2313
+    },
+    {
+      "price": 110110,
+      "amount": 5.6,
+      "total": 2319
+    },
+    {
+      "price": 110100,
+      "amount": 11.8,
+      "total": 2330
+    },
+    {
+      "price": 110090,
+      "amount": 3.0,
+      "total": 2333
+    },
+    {
+      "price": 110080,
+      "amount": 6.7,
+      "total": 2340
+    },
+    {
+      "price": 110070,
+      "amount": 0.8,
+      "total": 2341
+    },
+    {
+      "price": 110060,
+      "amount": 1.7,
+      "total": 2343
+    },
+    {
+      "price": 110050,
+      "amount": 3.5,
+      "total": 2346
+    },
+    {
+      "price": 110040,
+      "amount": 4.2,
+      "total": 2350
+    },
+    {
+      "price": 110030,
+      "amount": 4.0,
+      "total": 2354
+    },
+    {
+      "price": 110020,
+      "amount": 2.4,
+      "total": 2357
+    },
+    {
+      "price": 110010,
+      "amount": 4.8,
+      "total": 2361
+    },
+    {
+      "price": 110000,
+      "amount": 36.6,
+      "total": 2398
+    },
+    {
+      "price": 109990,
+      "amount": 4.8,
+      "total": 2403
+    },
+    {
+      "price": 109980,
+      "amount": 8.8,
+      "total": 2412
+    },
+    {
+      "price": 109970,
+      "amount": 2.9,
+      "total": 2415
+    },
+    {
+      "price": 109960,
+      "amount": 0.6,
+      "total": 2415
+    },
+    {
+      "price": 109950,
+      "amount": 6.4,
+      "total": 2422
+    },
+    {
+      "price": 109940,
+      "amount": 3.1,
+      "total": 2425
+    },
+    {
+      "price": 109930,
+      "amount": 1.2,
+      "total": 2426
+    },
+    {
+      "price": 109920,
+      "amount": 4.0,
+      "total": 2430
+    },
+    {
+      "price": 109910,
+      "amount": 1.4,
+      "total": 2431
+    },
+    {
+      "price": 109900,
+      "amount": 6.7,
+      "total": 2438
+    },
+    {
+      "price": 109890,
+      "amount": 6.3,
+      "total": 2444
+    },
+    {
+      "price": 109880,
+      "amount": 6.0,
+      "total": 2450
+    },
+    {
+      "price": 109870,
+      "amount": 18.3,
+      "total": 2469
+    },
+    {
+      "price": 109860,
+      "amount": 5.3,
+      "total": 2474
+    },
+    {
+      "price": 109850,
+      "amount": 4.1,
+      "total": 2478
+    },
+    {
+      "price": 109840,
+      "amount": 5.9,
+      "total": 2484
+    },
+    {
+      "price": 109830,
+      "amount": 2.6,
+      "total": 2487
+    },
+    {
+      "price": 109820,
+      "amount": 2.3,
+      "total": 2489
+    },
+    {
+      "price": 109810,
+      "amount": 3.0,
+      "total": 2492
+    },
+    {
+      "price": 109800,
+      "amount": 25.9,
+      "total": 2518
+    },
+    {
+      "price": 109790,
+      "amount": 4.5,
+      "total": 2522
+    },
+    {
+      "price": 109780,
+      "amount": 3.8,
+      "total": 2526
+    },
+    {
+      "price": 109770,
+      "amount": 11.9,
+      "total": 2538
+    },
+    {
+      "price": 109760,
+      "amount": 3.2,
+      "total": 2541
+    },
+    {
+      "price": 109750,
+      "amount": 2.3,
+      "total": 2543
+    },
+    {
+      "price": 109740,
+      "amount": 4.7,
+      "total": 2548
+    },
+    {
+      "price": 109730,
+      "amount": 3.1,
+      "total": 2551
+    },
+    {
+      "price": 109720,
+      "amount": 5.1,
+      "total": 2556
+    },
+    {
+      "price": 109710,
+      "amount": 12.3,
+      "total": 2569
+    },
+    {
+      "price": 109700,
+      "amount": 42.4,
+      "total": 2611
+    },
+    {
+      "price": 109690,
+      "amount": 12.8,
+      "total": 2624
+    },
+    {
+      "price": 109680,
+      "amount": 19.4,
+      "total": 2643
+    },
+    {
+      "price": 109670,
+      "amount": 4.6,
+      "total": 2648
+    },
+    {
+      "price": 109660,
+      "amount": 5.5,
+      "total": 2653
+    },
+    {
+      "price": 109650,
+      "amount": 5.0,
+      "total": 2658
+    },
+    {
+      "price": 109640,
+      "amount": 1.7,
+      "total": 2660
+    },
+    {
+      "price": 109630,
+      "amount": 1.4,
+      "total": 2662
+    },
+    {
+      "price": 109620,
+      "amount": 3.5,
+      "total": 2665
+    },
+    {
+      "price": 109610,
+      "amount": 3.3,
+      "total": 2668
+    },
+    {
+      "price": 109600,
+      "amount": 12.5,
+      "total": 2681
+    },
+    {
+      "price": 109590,
+      "amount": 7.9,
+      "total": 2689
+    },
+    {
+      "price": 109580,
+      "amount": 0.6,
+      "total": 2689
+    },
+    {
+      "price": 109570,
+      "amount": 0.8,
+      "total": 2690
+    },
+    {
+      "price": 109560,
+      "amount": 4.7,
+      "total": 2695
+    },
+    {
+      "price": 109550,
+      "amount": 10.8,
+      "total": 2706
+    },
+    {
+      "price": 109540,
+      "amount": 2.2,
+      "total": 2708
+    },
+    {
+      "price": 109530,
+      "amount": 1.3,
+      "total": 2709
+    },
+    {
+      "price": 109520,
+      "amount": 3.7,
+      "total": 2713
+    },
+    {
+      "price": 109510,
+      "amount": 6.5,
+      "total": 2719
+    },
+    {
+      "price": 109500,
+      "amount": 27.5,
+      "total": 2747
+    },
+    {
+      "price": 109490,
+      "amount": 5.7,
+      "total": 2753
+    },
+    {
+      "price": 109480,
+      "amount": 16.8,
+      "total": 2769
+    },
+    {
+      "price": 109470,
+      "amount": 16.7,
+      "total": 2786
+    },
+    {
+      "price": 109460,
+      "amount": 2.4,
+      "total": 2788
+    },
+    {
+      "price": 109450,
+      "amount": 24.7,
+      "total": 2813
+    },
+    {
+      "price": 109440,
+      "amount": 3.3,
+      "total": 2816
+    },
+    {
+      "price": 109430,
+      "amount": 7.4,
+      "total": 2824
+    },
+    {
+      "price": 109420,
+      "amount": 3.7,
+      "total": 2828
+    },
+    {
+      "price": 109410,
+      "amount": 4.5,
+      "total": 2832
+    },
+    {
+      "price": 109400,
+      "amount": 32.6,
+      "total": 2865
+    },
+    {
+      "price": 109390,
+      "amount": 6.7,
+      "total": 2871
+    },
+    {
+      "price": 109380,
+      "amount": 15.5,
+      "total": 2887
+    },
+    {
+      "price": 109370,
+      "amount": 27.5,
+      "total": 2914
+    },
+    {
+      "price": 109360,
+      "amount": 6.2,
+      "total": 2920
+    },
+    {
+      "price": 109350,
+      "amount": 18.4,
+      "total": 2939
+    },
+    {
+      "price": 109340,
+      "amount": 4.4,
+      "total": 2943
+    },
+    {
+      "price": 109330,
+      "amount": 8.7,
+      "total": 2952
+    },
+    {
+      "price": 109320,
+      "amount": 1.4,
+      "total": 2953
+    },
+    {
+      "price": 109310,
+      "amount": 6.3,
+      "total": 2960
+    },
+    {
+      "price": 109300,
+      "amount": 16.4,
+      "total": 2976
+    },
+    {
+      "price": 109290,
+      "amount": 3.9,
+      "total": 2980
+    },
+    {
+      "price": 109280,
+      "amount": 4.2,
+      "total": 2984
+    },
+    {
+      "price": 109270,
+      "amount": 15.4,
+      "total": 2999
+    },
+    {
+      "price": 109260,
+      "amount": 9.1,
+      "total": 3008
+    },
+    {
+      "price": 109250,
+      "amount": 5.2,
+      "total": 3014
+    },
+    {
+      "price": 109240,
+      "amount": 1.5,
+      "total": 3015
+    },
+    {
+      "price": 109230,
+      "amount": 1.5,
+      "total": 3017
+    },
+    {
+      "price": 109220,
+      "amount": 12.8,
+      "total": 3029
+    },
+    {
+      "price": 109210,
+      "amount": 2.3,
+      "total": 3032
+    },
+    {
+      "price": 109200,
+      "amount": 29.0,
+      "total": 3061
+    },
+    {
+      "price": 109190,
+      "amount": 4.0,
+      "total": 3065
+    },
+    {
+      "price": 109180,
+      "amount": 4.3,
+      "total": 3069
+    },
+    {
+      "price": 109170,
+      "amount": 1.5,
+      "total": 3071
+    },
+    {
+      "price": 109160,
+      "amount": 2.6,
+      "total": 3073
+    },
+    {
+      "price": 109150,
+      "amount": 5.1,
+      "total": 3078
+    },
+    {
+      "price": 109140,
+      "amount": 2.0,
+      "total": 3080
+    },
+    {
+      "price": 109130,
+      "amount": 1.6,
+      "total": 3082
+    },
+    {
+      "price": 109120,
+      "amount": 1.0,
+      "total": 3083
+    },
+    {
+      "price": 109110,
+      "amount": 2.3,
+      "total": 3085
+    },
+    {
+      "price": 109100,
+      "amount": 9.0,
+      "total": 3094
+    },
+    {
+      "price": 109090,
+      "amount": 1.7,
+      "total": 3096
+    },
+    {
+      "price": 109080,
+      "amount": 1.5,
+      "total": 3097
+    },
+    {
+      "price": 109070,
+      "amount": 4.3,
+      "total": 3102
+    },
+    {
+      "price": 109060,
+      "amount": 1.2,
+      "total": 3103
+    },
+    {
+      "price": 109050,
+      "amount": 3.0,
+      "total": 3106
+    },
+    {
+      "price": 109040,
+      "amount": 1.2,
+      "total": 3107
+    },
+    {
+      "price": 109030,
+      "amount": 0.6,
+      "total": 3107
+    },
+    {
+      "price": 109020,
+      "amount": 3.3,
+      "total": 3111
+    },
+    {
+      "price": 109010,
+      "amount": 6.2,
+      "total": 3117
+    },
+    {
+      "price": 109000,
+      "amount": 51.2,
+      "total": 3168
+    },
+    {
+      "price": 108990,
+      "amount": 5.2,
+      "total": 3173
+    },
+    {
+      "price": 108980,
+      "amount": 1.2,
+      "total": 3175
+    },
+    {
+      "price": 108970,
+      "amount": 1.1,
+      "total": 3176
+    },
+    {
+      "price": 108960,
+      "amount": 2.0,
+      "total": 3178
+    },
+    {
+      "price": 108950,
+      "amount": 2.0,
+      "total": 3180
+    },
+    {
+      "price": 108940,
+      "amount": 1.2,
+      "total": 3181
+    },
+    {
+      "price": 108930,
+      "amount": 1.6,
+      "total": 3182
+    },
+    {
+      "price": 108920,
+      "amount": 1.3,
+      "total": 3184
+    },
+    {
+      "price": 108910,
+      "amount": 2.0,
+      "total": 3186
+    }
+  ],
+  "asks": [
+    {
+      "price": 113690,
+      "amount": 3.5,
+      "total": 4081
+    },
+    {
+      "price": 113680,
+      "amount": 1.8,
+      "total": 4077
+    },
+    {
+      "price": 113670,
+      "amount": 9.6,
+      "total": 4076
+    },
+    {
+      "price": 113660,
+      "amount": 0.4,
+      "total": 4066
+    },
+    {
+      "price": 113650,
+      "amount": 2.8,
+      "total": 4066
+    },
+    {
+      "price": 113640,
+      "amount": 0.7,
+      "total": 4063
+    },
+    {
+      "price": 113630,
+      "amount": 0.6,
+      "total": 4062
+    },
+    {
+      "price": 113620,
+      "amount": 1.1,
+      "total": 4061
+    },
+    {
+      "price": 113610,
+      "amount": 1.2,
+      "total": 4060
+    },
+    {
+      "price": 113600,
+      "amount": 9.6,
+      "total": 4059
+    },
+    {
+      "price": 113590,
+      "amount": 1.1,
+      "total": 4049
+    },
+    {
+      "price": 113580,
+      "amount": 2.5,
+      "total": 4048
+    },
+    {
+      "price": 113570,
+      "amount": 1.9,
+      "total": 4046
+    },
+    {
+      "price": 113560,
+      "amount": 1.5,
+      "total": 4044
+    },
+    {
+      "price": 113550,
+      "amount": 1.9,
+      "total": 4042
+    },
+    {
+      "price": 113540,
+      "amount": 0.8,
+      "total": 4041
+    },
+    {
+      "price": 113530,
+      "amount": 2.8,
+      "total": 4040
+    },
+    {
+      "price": 113520,
+      "amount": 15.1,
+      "total": 4037
+    },
+    {
+      "price": 113510,
+      "amount": 5.3,
+      "total": 4022
+    },
+    {
+      "price": 113500,
+      "amount": 44.9,
+      "total": 4017
+    },
+    {
+      "price": 113490,
+      "amount": 3.8,
+      "total": 3972
+    },
+    {
+      "price": 113480,
+      "amount": 6.3,
+      "total": 3968
+    },
+    {
+      "price": 113470,
+      "amount": 4.6,
+      "total": 3962
+    },
+    {
+      "price": 113460,
+      "amount": 12.6,
+      "total": 3957
+    },
+    {
+      "price": 113450,
+      "amount": 51.4,
+      "total": 3944
+    },
+    {
+      "price": 113440,
+      "amount": 5.7,
+      "total": 3893
+    },
+    {
+      "price": 113430,
+      "amount": 8.7,
+      "total": 3887
+    },
+    {
+      "price": 113420,
+      "amount": 2.1,
+      "total": 3879
+    },
+    {
+      "price": 113410,
+      "amount": 40.2,
+      "total": 3877
+    },
+    {
+      "price": 113400,
+      "amount": 16.8,
+      "total": 3836
+    },
+    {
+      "price": 113390,
+      "amount": 3.7,
+      "total": 3820
+    },
+    {
+      "price": 113380,
+      "amount": 3.6,
+      "total": 3816
+    },
+    {
+      "price": 113370,
+      "amount": 1.3,
+      "total": 3812
+    },
+    {
+      "price": 113360,
+      "amount": 4.2,
+      "total": 3811
+    },
+    {
+      "price": 113350,
+      "amount": 11.1,
+      "total": 3807
+    },
+    {
+      "price": 113340,
+      "amount": 14.5,
+      "total": 3796
+    },
+    {
+      "price": 113330,
+      "amount": 2.1,
+      "total": 3781
+    },
+    {
+      "price": 113320,
+      "amount": 10.6,
+      "total": 3779
+    },
+    {
+      "price": 113310,
+      "amount": 6.1,
+      "total": 3768
+    },
+    {
+      "price": 113300,
+      "amount": 9.4,
+      "total": 3762
+    },
+    {
+      "price": 113290,
+      "amount": 5.8,
+      "total": 3753
+    },
+    {
+      "price": 113280,
+      "amount": 25.1,
+      "total": 3747
+    },
+    {
+      "price": 113270,
+      "amount": 10.3,
+      "total": 3722
+    },
+    {
+      "price": 113260,
+      "amount": 6.2,
+      "total": 3712
+    },
+    {
+      "price": 113250,
+      "amount": 3.0,
+      "total": 3706
+    },
+    {
+      "price": 113240,
+      "amount": 4.2,
+      "total": 3703
+    },
+    {
+      "price": 113230,
+      "amount": 17.5,
+      "total": 3698
+    },
+    {
+      "price": 113220,
+      "amount": 2.8,
+      "total": 3681
+    },
+    {
+      "price": 113210,
+      "amount": 2.6,
+      "total": 3678
+    },
+    {
+      "price": 113200,
+      "amount": 8.8,
+      "total": 3675
+    },
+    {
+      "price": 113190,
+      "amount": 4.6,
+      "total": 3667
+    },
+    {
+      "price": 113180,
+      "amount": 3.2,
+      "total": 3662
+    },
+    {
+      "price": 113170,
+      "amount": 9.5,
+      "total": 3659
+    },
+    {
+      "price": 113160,
+      "amount": 22.6,
+      "total": 3649
+    },
+    {
+      "price": 113150,
+      "amount": 2.6,
+      "total": 3627
+    },
+    {
+      "price": 113140,
+      "amount": 7.3,
+      "total": 3624
+    },
+    {
+      "price": 113130,
+      "amount": 2.1,
+      "total": 3617
+    },
+    {
+      "price": 113120,
+      "amount": 19.7,
+      "total": 3615
+    },
+    {
+      "price": 113110,
+      "amount": 1.9,
+      "total": 3595
+    },
+    {
+      "price": 113100,
+      "amount": 4.4,
+      "total": 3593
+    },
+    {
+      "price": 113090,
+      "amount": 6.4,
+      "total": 3589
+    },
+    {
+      "price": 113080,
+      "amount": 2.7,
+      "total": 3582
+    },
+    {
+      "price": 113070,
+      "amount": 1.4,
+      "total": 3580
+    },
+    {
+      "price": 113060,
+      "amount": 1.9,
+      "total": 3578
+    },
+    {
+      "price": 113050,
+      "amount": 6.7,
+      "total": 3576
+    },
+    {
+      "price": 113040,
+      "amount": 1.2,
+      "total": 3570
+    },
+    {
+      "price": 113030,
+      "amount": 4.8,
+      "total": 3568
+    },
+    {
+      "price": 113020,
+      "amount": 6.0,
+      "total": 3564
+    },
+    {
+      "price": 113010,
+      "amount": 1.9,
+      "total": 3558
+    },
+    {
+      "price": 113000,
+      "amount": 56.2,
+      "total": 3556
+    },
+    {
+      "price": 112990,
+      "amount": 5.2,
+      "total": 3500
+    },
+    {
+      "price": 112980,
+      "amount": 5.4,
+      "total": 3494
+    },
+    {
+      "price": 112970,
+      "amount": 7.0,
+      "total": 3489
+    },
+    {
+      "price": 112960,
+      "amount": 6.9,
+      "total": 3482
+    },
+    {
+      "price": 112950,
+      "amount": 12.6,
+      "total": 3475
+    },
+    {
+      "price": 112940,
+      "amount": 32.8,
+      "total": 3462
+    },
+    {
+      "price": 112930,
+      "amount": 6.1,
+      "total": 3430
+    },
+    {
+      "price": 112920,
+      "amount": 3.4,
+      "total": 3424
+    },
+    {
+      "price": 112910,
+      "amount": 6.1,
+      "total": 3420
+    },
+    {
+      "price": 112900,
+      "amount": 8.2,
+      "total": 3414
+    },
+    {
+      "price": 112890,
+      "amount": 18.5,
+      "total": 3406
+    },
+    {
+      "price": 112880,
+      "amount": 8.6,
+      "total": 3387
+    },
+    {
+      "price": 112870,
+      "amount": 9.7,
+      "total": 3379
+    },
+    {
+      "price": 112860,
+      "amount": 17.3,
+      "total": 3369
+    },
+    {
+      "price": 112850,
+      "amount": 9.5,
+      "total": 3352
+    },
+    {
+      "price": 112840,
+      "amount": 1.3,
+      "total": 3342
+    },
+    {
+      "price": 112830,
+      "amount": 2.5,
+      "total": 3341
+    },
+    {
+      "price": 112820,
+      "amount": 5.9,
+      "total": 3339
+    },
+    {
+      "price": 112810,
+      "amount": 12.7,
+      "total": 3333
+    },
+    {
+      "price": 112800,
+      "amount": 26.2,
+      "total": 3320
+    },
+    {
+      "price": 112790,
+      "amount": 3.3,
+      "total": 3294
+    },
+    {
+      "price": 112780,
+      "amount": 11.4,
+      "total": 3291
+    },
+    {
+      "price": 112770,
+      "amount": 18.6,
+      "total": 3279
+    },
+    {
+      "price": 112760,
+      "amount": 5.3,
+      "total": 3261
+    },
+    {
+      "price": 112750,
+      "amount": 30.6,
+      "total": 3255
+    },
+    {
+      "price": 112740,
+      "amount": 1.3,
+      "total": 3225
+    },
+    {
+      "price": 112730,
+      "amount": 5.8,
+      "total": 3223
+    },
+    {
+      "price": 112720,
+      "amount": 3.0,
+      "total": 3218
+    },
+    {
+      "price": 112710,
+      "amount": 0.5,
+      "total": 3215
+    },
+    {
+      "price": 112700,
+      "amount": 4.5,
+      "total": 3214
+    },
+    {
+      "price": 112690,
+      "amount": 3.6,
+      "total": 3210
+    },
+    {
+      "price": 112680,
+      "amount": 0.7,
+      "total": 3206
+    },
+    {
+      "price": 112670,
+      "amount": 19.6,
+      "total": 3205
+    },
+    {
+      "price": 112660,
+      "amount": 3.2,
+      "total": 3186
+    },
+    {
+      "price": 112650,
+      "amount": 6.4,
+      "total": 3183
+    },
+    {
+      "price": 112640,
+      "amount": 2.2,
+      "total": 3176
+    },
+    {
+      "price": 112630,
+      "amount": 4.7,
+      "total": 3174
+    },
+    {
+      "price": 112620,
+      "amount": 3.7,
+      "total": 3169
+    },
+    {
+      "price": 112610,
+      "amount": 3.1,
+      "total": 3165
+    },
+    {
+      "price": 112600,
+      "amount": 9.0,
+      "total": 3162
+    },
+    {
+      "price": 112590,
+      "amount": 2.8,
+      "total": 3153
+    },
+    {
+      "price": 112580,
+      "amount": 5.9,
+      "total": 3151
+    },
+    {
+      "price": 112570,
+      "amount": 3.1,
+      "total": 3145
+    },
+    {
+      "price": 112560,
+      "amount": 2.7,
+      "total": 3141
+    },
+    {
+      "price": 112550,
+      "amount": 8.7,
+      "total": 3139
+    },
+    {
+      "price": 112540,
+      "amount": 7.9,
+      "total": 3130
+    },
+    {
+      "price": 112530,
+      "amount": 1.7,
+      "total": 3122
+    },
+    {
+      "price": 112520,
+      "amount": 21.1,
+      "total": 3121
+    },
+    {
+      "price": 112510,
+      "amount": 3.9,
+      "total": 3099
+    },
+    {
+      "price": 112500,
+      "amount": 52.2,
+      "total": 3096
+    },
+    {
+      "price": 112490,
+      "amount": 5.2,
+      "total": 3043
+    },
+    {
+      "price": 112480,
+      "amount": 7.5,
+      "total": 3038
+    },
+    {
+      "price": 112470,
+      "amount": 6.2,
+      "total": 3031
+    },
+    {
+      "price": 112460,
+      "amount": 2.5,
+      "total": 3024
+    },
+    {
+      "price": 112450,
+      "amount": 0.7,
+      "total": 3022
+    },
+    {
+      "price": 112440,
+      "amount": 5.8,
+      "total": 3021
+    },
+    {
+      "price": 112430,
+      "amount": 3.1,
+      "total": 3015
+    },
+    {
+      "price": 112420,
+      "amount": 5.6,
+      "total": 3012
+    },
+    {
+      "price": 112410,
+      "amount": 6.7,
+      "total": 3007
+    },
+    {
+      "price": 112400,
+      "amount": 7.9,
+      "total": 3000
+    },
+    {
+      "price": 112390,
+      "amount": 14.5,
+      "total": 2992
+    },
+    {
+      "price": 112380,
+      "amount": 4.4,
+      "total": 2978
+    },
+    {
+      "price": 112370,
+      "amount": 14.2,
+      "total": 2973
+    },
+    {
+      "price": 112360,
+      "amount": 61.7,
+      "total": 2959
+    },
+    {
+      "price": 112350,
+      "amount": 2.6,
+      "total": 2897
+    },
+    {
+      "price": 112340,
+      "amount": 1.6,
+      "total": 2895
+    },
+    {
+      "price": 112330,
+      "amount": 1.2,
+      "total": 2893
+    },
+    {
+      "price": 112320,
+      "amount": 0.3,
+      "total": 2892
+    },
+    {
+      "price": 112310,
+      "amount": 0.7,
+      "total": 2891
+    },
+    {
+      "price": 112300,
+      "amount": 114.7,
+      "total": 2891
+    },
+    {
+      "price": 112290,
+      "amount": 1.5,
+      "total": 2776
+    },
+    {
+      "price": 112280,
+      "amount": 1.2,
+      "total": 2775
+    },
+    {
+      "price": 112270,
+      "amount": 0.3,
+      "total": 2773
+    },
+    {
+      "price": 112260,
+      "amount": 7.3,
+      "total": 2773
+    },
+    {
+      "price": 112250,
+      "amount": 4.8,
+      "total": 2766
+    },
+    {
+      "price": 112240,
+      "amount": 3.6,
+      "total": 2761
+    },
+    {
+      "price": 112230,
+      "amount": 16.5,
+      "total": 2757
+    },
+    {
+      "price": 112220,
+      "amount": 48.3,
+      "total": 2741
+    },
+    {
+      "price": 112210,
+      "amount": 5.5,
+      "total": 2693
+    },
+    {
+      "price": 112200,
+      "amount": 32.3,
+      "total": 2687
+    },
+    {
+      "price": 112190,
+      "amount": 13.7,
+      "total": 2655
+    },
+    {
+      "price": 112180,
+      "amount": 9.8,
+      "total": 2641
+    },
+    {
+      "price": 112170,
+      "amount": 3.4,
+      "total": 2631
+    },
+    {
+      "price": 112160,
+      "amount": 4.2,
+      "total": 2628
+    },
+    {
+      "price": 112150,
+      "amount": 9.1,
+      "total": 2624
+    },
+    {
+      "price": 112140,
+      "amount": 2.6,
+      "total": 2615
+    },
+    {
+      "price": 112130,
+      "amount": 49.3,
+      "total": 2612
+    },
+    {
+      "price": 112120,
+      "amount": 6.8,
+      "total": 2563
+    },
+    {
+      "price": 112110,
+      "amount": 7.1,
+      "total": 2556
+    },
+    {
+      "price": 112100,
+      "amount": 10.2,
+      "total": 2549
+    },
+    {
+      "price": 112090,
+      "amount": 4.8,
+      "total": 2539
+    },
+    {
+      "price": 112080,
+      "amount": 4.2,
+      "total": 2534
+    },
+    {
+      "price": 112070,
+      "amount": 6.7,
+      "total": 2530
+    },
+    {
+      "price": 112060,
+      "amount": 16.7,
+      "total": 2523
+    },
+    {
+      "price": 112050,
+      "amount": 39.1,
+      "total": 2506
+    },
+    {
+      "price": 112040,
+      "amount": 4.4,
+      "total": 2467
+    },
+    {
+      "price": 112030,
+      "amount": 2.5,
+      "total": 2463
+    },
+    {
+      "price": 112020,
+      "amount": 4.2,
+      "total": 2460
+    },
+    {
+      "price": 112010,
+      "amount": 3.8,
+      "total": 2456
+    },
+    {
+      "price": 112000,
+      "amount": 104.9,
+      "total": 2452
+    },
+    {
+      "price": 111990,
+      "amount": 51.4,
+      "total": 2347
+    },
+    {
+      "price": 111980,
+      "amount": 5.5,
+      "total": 2296
+    },
+    {
+      "price": 111970,
+      "amount": 43.4,
+      "total": 2290
+    },
+    {
+      "price": 111960,
+      "amount": 4.0,
+      "total": 2247
+    },
+    {
+      "price": 111950,
+      "amount": 8.5,
+      "total": 2243
+    },
+    {
+      "price": 111940,
+      "amount": 8.2,
+      "total": 2235
+    },
+    {
+      "price": 111930,
+      "amount": 14.1,
+      "total": 2226
+    },
+    {
+      "price": 111920,
+      "amount": 20.9,
+      "total": 2212
+    },
+    {
+      "price": 111910,
+      "amount": 7.1,
+      "total": 2191
+    },
+    {
+      "price": 111900,
+      "amount": 17.1,
+      "total": 2184
+    },
+    {
+      "price": 111890,
+      "amount": 12.4,
+      "total": 2167
+    },
+    {
+      "price": 111880,
+      "amount": 31.6,
+      "total": 2155
+    },
+    {
+      "price": 111870,
+      "amount": 11.0,
+      "total": 2123
+    },
+    {
+      "price": 111860,
+      "amount": 4.9,
+      "total": 2112
+    },
+    {
+      "price": 111850,
+      "amount": 5.1,
+      "total": 2107
+    },
+    {
+      "price": 111840,
+      "amount": 4.1,
+      "total": 2102
+    },
+    {
+      "price": 111830,
+      "amount": 14.9,
+      "total": 2098
+    },
+    {
+      "price": 111820,
+      "amount": 14.9,
+      "total": 2083
+    },
+    {
+      "price": 111810,
+      "amount": 3.9,
+      "total": 2068
+    },
+    {
+      "price": 111800,
+      "amount": 43.5,
+      "total": 2064
+    },
+    {
+      "price": 111790,
+      "amount": 14.0,
+      "total": 2021
+    },
+    {
+      "price": 111780,
+      "amount": 4.2,
+      "total": 2007
+    },
+    {
+      "price": 111770,
+      "amount": 6.8,
+      "total": 2003
+    },
+    {
+      "price": 111760,
+      "amount": 16.5,
+      "total": 1996
+    },
+    {
+      "price": 111750,
+      "amount": 12.3,
+      "total": 1979
+    },
+    {
+      "price": 111740,
+      "amount": 75.5,
+      "total": 1967
+    },
+    {
+      "price": 111730,
+      "amount": 42.3,
+      "total": 1892
+    },
+    {
+      "price": 111720,
+      "amount": 16.6,
+      "total": 1849
+    },
+    {
+      "price": 111710,
+      "amount": 9.9,
+      "total": 1833
+    },
+    {
+      "price": 111700,
+      "amount": 39.5,
+      "total": 1823
+    },
+    {
+      "price": 111690,
+      "amount": 26.0,
+      "total": 1783
+    },
+    {
+      "price": 111680,
+      "amount": 35.4,
+      "total": 1757
+    },
+    {
+      "price": 111670,
+      "amount": 54.5,
+      "total": 1722
+    },
+    {
+      "price": 111660,
+      "amount": 8.0,
+      "total": 1667
+    },
+    {
+      "price": 111650,
+      "amount": 16.6,
+      "total": 1659
+    },
+    {
+      "price": 111640,
+      "amount": 40.0,
+      "total": 1643
+    },
+    {
+      "price": 111630,
+      "amount": 16.0,
+      "total": 1603
+    },
+    {
+      "price": 111620,
+      "amount": 16.6,
+      "total": 1587
+    },
+    {
+      "price": 111610,
+      "amount": 16.6,
+      "total": 1570
+    },
+    {
+      "price": 111600,
+      "amount": 28.3,
+      "total": 1553
+    },
+    {
+      "price": 111590,
+      "amount": 58.5,
+      "total": 1525
+    },
+    {
+      "price": 111580,
+      "amount": 13.2,
+      "total": 1467
+    },
+    {
+      "price": 111570,
+      "amount": 30.0,
+      "total": 1453
+    },
+    {
+      "price": 111560,
+      "amount": 73.1,
+      "total": 1424
+    },
+    {
+      "price": 111550,
+      "amount": 19.7,
+      "total": 1350
+    },
+    {
+      "price": 111540,
+      "amount": 84.1,
+      "total": 1331
+    },
+    {
+      "price": 111530,
+      "amount": 31.9,
+      "total": 1247
+    },
+    {
+      "price": 111520,
+      "amount": 22.4,
+      "total": 1215
+    },
+    {
+      "price": 111510,
+      "amount": 33.4,
+      "total": 1192
+    },
+    {
+      "price": 111500,
+      "amount": 27.5,
+      "total": 1159
+    },
+    {
+      "price": 111490,
+      "amount": 34.3,
+      "total": 1132
+    },
+    {
+      "price": 111480,
+      "amount": 48.1,
+      "total": 1097
+    },
+    {
+      "price": 111470,
+      "amount": 30.1,
+      "total": 1049
+    },
+    {
+      "price": 111460,
+      "amount": 35.3,
+      "total": 1019
+    },
+    {
+      "price": 111450,
+      "amount": 31.5,
+      "total": 983.7
+    },
+    {
+      "price": 111440,
+      "amount": 45.1,
+      "total": 952.2
+    },
+    {
+      "price": 111430,
+      "amount": 32.6,
+      "total": 907.1
+    },
+    {
+      "price": 111420,
+      "amount": 20.6,
+      "total": 874.5
+    },
+    {
+      "price": 111410,
+      "amount": 18.3,
+      "total": 853.9
+    },
+    {
+      "price": 111400,
+      "amount": 137.5,
+      "total": 835.6
+    },
+    {
+      "price": 111390,
+      "amount": 19.7,
+      "total": 698.1
+    },
+    {
+      "price": 111380,
+      "amount": 41.8,
+      "total": 678.4
+    },
+    {
+      "price": 111370,
+      "amount": 46.8,
+      "total": 636.6
+    },
+    {
+      "price": 111360,
+      "amount": 37.5,
+      "total": 589.8
+    },
+    {
+      "price": 111350,
+      "amount": 34.1,
+      "total": 552.2
+    },
+    {
+      "price": 111340,
+      "amount": 41.4,
+      "total": 518.2
+    },
+    {
+      "price": 111330,
+      "amount": 165.4,
+      "total": 476.8
+    },
+    {
+      "price": 111320,
+      "amount": 153.5,
+      "total": 311.4
+    },
+    {
+      "price": 111310,
+      "amount": 16.9,
+      "total": 157.9
+    },
+    {
+      "price": 111300,
+      "amount": 141.0,
+      "total": 141.0
+    }
+  ]
+}
